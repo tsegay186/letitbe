@@ -1,0 +1,12 @@
+body{
+    margin: 0;
+    background-color: black;
+}
+#app {
+    margin: 0 auto;
+    height: 98vh;
+    background-color: rgba(11, 12, 12, 0.055);
+    color: green;
+    padding: 3px;
+
+}
