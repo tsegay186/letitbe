@@ -70,5 +70,3 @@ function randomInteger(min, max) {
     }
     return matrix
 }
-
-console.log(allNumbersInDomain(1, 80, 10))
