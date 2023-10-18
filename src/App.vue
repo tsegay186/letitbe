@@ -357,22 +357,4 @@ button {
   border: 1px solid black;
 
 }
-
-.input-container {
-  margin-top: 6px;
-  align-self: flex-end;
-  width: 100%;
-  background-color: green;
-}
-
-input {
-  height: 40px;
-  width: 100%;
-  border-style: none;
-  border-radius: 8px;
-}
-
-footer {
-  padding: 0;
-}
 </style>
