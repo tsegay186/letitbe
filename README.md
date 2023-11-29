@@ -13,3 +13,6 @@ some one access the url of the app.
 he chooses a card which contains combination of 5 numbers as his/her wish.the requests to join a game. and after some time game begins and system draws random numbers.
 drawing random continues untill there is a card of which all its numbers are drawn.
 then the person who ows the card wins the game.
+
+Technologies Used
+css, html, javaScript, socketIo and vueJs
