@@ -15,4 +15,5 @@ drawing random continues untill there is a card of which all its numbers are dra
 then the person who ows the card wins the game.
 
 Technologies Used
+
 css, html, javaScript, socketIo and vueJs
