@@ -8,7 +8,7 @@ This template should help get you started developing with Vue 3 in Vite. The tem
 
 1. Clone and Set Up:
 
-To play, clone the repository and install all required dependencies according to your development environment. Remember to clone the iconclast repo as well, since it's a full-stack app powered by SocketIO.
+To play, clone the repository and install all required dependencies according to your development environment or visit the site in web. Remember to clone the iconclast repo as well, since it's a full-stack app powered by SocketIO.
 
 2. Generate Your Lucky Card:
 
