@@ -11,7 +11,7 @@ import AllNumbers from "./components/AllNumbers.vue";
 import DrawnNumberCompenent from "./components/DrawnNumberComponenet.vue"
 import CombinationComponent from "./components/CombinationComponent.vue"
 
-const URL = "https://iconclast.onrender.com";
+const URL = "https://localhost:3000";
 const socket = io(URL);
 const winner = ref(undefined)
 const mySocketId = ref(undefined)
